@@ -1,9 +1,15 @@
 Name:M.Monish
+<br>
 College :Chettinad college of engineering and technology dindigul
+<br>
 Intern Id:CT12DS2022
+<br>
 Duration:August 1st to October 1st 2024
+<br>
 Domain:UI/UX design
+<br>
 Company:Codtechit solution
+<br>
 
  <h1>E-Commerce Design Project using Figma</h1>
 
