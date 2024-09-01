@@ -10,7 +10,8 @@ Domain:UI/UX design
 <br>
 Company:Codtechit solution
 <br>
-
+Mentor:Muzammil Ahmed
+<br>
  <h1>E-Commerce Design Project using Figma</h1>
 
  <h2>Project Overview</h2>
