@@ -40,6 +40,10 @@ Mentor:Muzammil Ahmed
     <h2>Contributing</h2>
     <p>If you have any suggestions or want to contribute to this project, feel free to submit a pull request or open an issue.</p>
 
+![Screenshot (1282)](https://github.com/user-attachments/assets/80e88be4-3dfd-43b7-9db5-22de0a4d9d4e)
+![Screenshot (1283)](https://github.com/user-attachments/assets/fba79d0c-3b2a-43ae-a5e1-0a96f0b76721)
+![Screenshot (1284)](https://github.com/user-attachments/assets/04c585d0-4d75-41c8-bc11-f543608b7088)
+![Screenshot (1285)](https://github.com/user-attachments/assets/2818f1dd-6800-4200-abb1-92a2cc08c124)
 
 
 
