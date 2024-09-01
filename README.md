@@ -1,6 +1,6 @@
 Name:M.Monish
 <br>
-College :Chettinad college of engineering and technology dindigul
+College :Chettinad college of engineering and technology Karur
 <br>
 Intern Id:CT12DS2022
 <br>
